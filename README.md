@@ -10,7 +10,7 @@
 | Abhilash Singh | 24BCE10706 | Backend Development |
 | Md Afzal Khan | 24BCE11247 | Database & JDBC |
 | Ayush Mishra | 24BCE10019 | UI / Frontend |
-| Pranav Kumar | 24BCE10080 | Testing & Integration |
+| Pranav Kumar | 24BCE10080 | Testing |
 
 **Faculty:** Vandana Shakya | **Slot:** B14+D21
 
@@ -87,4 +87,4 @@ java -cp "out:lib/mysql-connector-j-8.x.x.jar" com.vit.sms.Main
 | 2 | Java Beans, Event Model | Student.java, Attendance.java |
 | 3 | JDBC, Transactions, SQL API | All DAO classes |
 | 4 | Swing, MVC, Layout Managers | All UI classes |
-| 5 | Networking concepts | DatabaseConnection (URL/connection) |
+| 5 | Networking concepts | DatabaseConnection (URL/connections) |
